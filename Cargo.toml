@@ -1,5 +1,5 @@
 [package]
-name = "rust-fuse"
+name = "fuse"
 version = "0.1.0"
 authors = [ "Andreas Neuhaus <zargony@zargony.com>" ]
 
